@@ -10,7 +10,7 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=userisaziz&show_icons=true&locale=en&layout=compact" alt="userisaziz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=userisaziz&show_icons=true&locale=en&layout=compact" alt="userisaziz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=userisaziz&show_icons=true&locale=en" alt="userisaziz" /></p>
 
