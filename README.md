@@ -3,7 +3,7 @@
 ![banner smaller size](https://user-images.githubusercontent.com/76690419/191395838-1600a7d2-ba0f-47e0-bd17-a8f167c6a3bf.png)
 
 # 💫 About Me:
-- 🔭 I’m currently working on ... MERN Stack PG Booking Project<br>- 🌱 I’m currently learning ... Backend (Java)<br>- 🤔 I’m looking for help with ... A full time job opportunity<br>- 💬 Ask me about ... Tech<br>- 📫 How to reach me: ... azizadnan370@gmail.com / 7204977240<br>- ⚡ Fun fact: ... I'm a Mechanical Enginner
+- 🔭 I’m currently working at Antino Labs Bangalore<br>- 🌱 I’m currently learning ... Backend (Java)<br>- 🤔 I’m an Introvert<br>- 💬 Ask me about ... Tech<br>- 📫 How to reach me: ... azizadnan370@gmail.com / +917204977240<br>- ⚡ Fun fact: ... I'm a Mechanical Enginner
 
 
 ## 🌐 Socials:
