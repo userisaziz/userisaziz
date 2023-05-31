@@ -1,3 +1,7 @@
+<h1 align="center">Hi, I'm Aziz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
+
+![banner smaller size](https://user-images.githubusercontent.com/76690419/191395838-1600a7d2-ba0f-47e0-bd17-a8f167c6a3bf.png)
+
 # 💫 About Me:
 - 🔭 I’m currently working on ... MERN Stack PG Booking Project<br>- 🌱 I’m currently learning ... Backend (Java)<br>- 🤔 I’m looking for help with ... A full time job opportunity<br>- 💬 Ask me about ... Tech<br>- 📫 How to reach me: ... azizadnan370@gmail.com / 7204977240<br>- ⚡ Fun fact: ... I'm a Mechanical Enginner
 
