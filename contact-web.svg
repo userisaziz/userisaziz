@@ -1,0 +1,11 @@
+<svg width="340" height="90" viewBox="0 0 340 90" xmlns="http://www.w3.org/2000/svg">
+  <style>text { font-family: Menlo, Monaco, 'Courier New', monospace; }</style>
+  <rect x="0.6" y="0.6" width="338.8" height="88.8" rx="9" fill="#1C1C1C" stroke="#2E2E2E" stroke-width="1"/>
+  <line x1="0.6" y1="27" x2="339.4" y2="27" stroke="#2A2A2A" stroke-width="1"/>
+  <circle cx="16" cy="14" r="3" fill="#FF5F57"/>
+  <circle cx="26" cy="14" r="3" fill="#FFBD2E"/>
+  <circle cx="36" cy="14" r="3" fill="#28CA41"/>
+  <text x="324" y="18" text-anchor="end" font-size="11" fill="#6E7681">site.sh</text>
+  <text x="16" y="50" font-size="13" xml:space="preserve"><tspan fill="#D77757">&#x276F;</tspan><tspan fill="#E6E6E6"> explore</tspan></text>
+  <text x="16" y="72" font-size="12" xml:space="preserve"><tspan fill="#6E7681">  &#x23BF; </tspan><tspan fill="#B1B9F9">aestheticmypage.netlify.app</tspan></text>
+</svg>
